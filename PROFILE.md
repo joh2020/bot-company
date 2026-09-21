@@ -1,13 +1,14 @@
-# X profile — apply this
+# X profile — public door
+
+IDENTITY.md is for operators. It is NOT copy.
+Do not put the Pomeranian, meetings, Ossidiana, or justice on the bio.
 
 Name: Jay
 Handle: @jayonspecs
-Bio (exact):
-Mute in meetings. Models after dark.
-The Pomeranian has root.
+Bio (exact, public):
+working.
 
 Location: empty
 Website: empty
-PFP: keep the mint JAY mark (he does not put his face on the door).
-Header: keep the night desk / permission screen unless a better still of servers + orange fur exists. Do not generate a fake dog.
-Pinned: first post that is this person, not the old correspondent line.
+PFP: mint JAY mark
+Header: night desk. No generated dog.

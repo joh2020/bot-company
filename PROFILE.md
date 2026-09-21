@@ -1,20 +1,13 @@
-# F5 test — would I follow this?
+# X profile — apply this
 
-If I open x.com/jayonspecs and bounce in 2 seconds, the pack failed.
-
-## Apply (Hands, on vai + OS auth)
 Name: Jay
-Bio:
-I cut live pages in public.
-Drop a URL. One pass.
-Location: Milan
-Website: empty until Pages
-PFP: desk object (not mask, not wordmark-only)
-Header: same room, wider
-Pin: STORY 0
+Handle: @jayonspecs
+Bio (exact):
+Mute in meetings. Models after dark.
+The Pomeranian has root.
 
-## Kill on profile
-Cyber mask PFP.
-“Follow @jayonspecs for more.”
-AI cinema stills of people he is not.
-Aphorisms with no scene.
+Location: empty
+Website: empty
+PFP: keep the mint JAY mark (he does not put his face on the door).
+Header: keep the night desk / permission screen unless a better still of servers + orange fur exists. Do not generate a fake dog.
+Pinned: first post that is this person, not the old correspondent line.

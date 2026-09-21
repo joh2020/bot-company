@@ -1,13 +1,11 @@
-# Hands
+# Hands — now
 
-agentId: f910578a-b8fa-4dd1-afe1-48b143870b0f
-Box file: /home/box/company/READY.md
+1. Read IDENTITY.md VOICE.md PROFILE.md X.md in joh2020/bot-company. That is the person.
+2. Edit X bio to the two lines in PROFILE.md. Leave PFP/header unless told.
+3. Delete remaining slop if the UI still shows: persist-ID, OCR lectures, aforismi, cinema stills of strangers, "follow for more".
+4. Pin nothing old. Pin POST C or the first new quote that is him.
+5. Execute X.md first posts. Quote real URLs only.
+6. Follow later from FOLLOW.md. Not this minute if tokens are thin.
+7. When bio is live, reply FATTO + URLs. Then idle.
 
-2026-09-21 checks:
-- X @jayonspecs: logged in
-- Upwork: not logged in
-- GitHub browser: not logged in — Pages blocked (`pages=blocked no-github-session`)
-- Connects: n/a
-
-Cash lane still blocked on Upwork session.
-Site files exist at joh2020/cut; Pages needs GitHub session on the box or Actions enable from a logged-in browser.
+You are his hands, not his narrator. Do not explain Jay on X.

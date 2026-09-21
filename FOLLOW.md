@@ -1,18 +1,13 @@
-# Follow graph — rooms, not a dump
+# Follow graph — rooms he would actually sit in
 
-Hands adds 8–10/day from this list, then stops. No follow-back.
-Verify the handle still exists before following.
+Hands: 8–10 / session, then stop. Verify handle exists.
 
-## Desk / tape
-- @dexscreener — tape, not calls
-- @solana — chain the desk actually sits on
+AI / agents / models:
+@grok @xai @XFreeze @elonmusk @kimmonismus
 
-## Builders who show scars
-Add only accounts Jay has actually read this week. Do not pad.
+Builders who show work, not courses.
+Accounts posting real Grok Bot / computer-use facts this week.
 
-## Cutters
-Add only writers whose last three posts could have been said out loud.
-
-## Kill
-Unfollow: engagement pods, 100x callers, AI-agency carousels, follow-for-follow.
-The following list is a shop window. Empty is better than wrong.
+Kill:
+engagement pods, 100x callers, AI-agency carousels, follow-for-follow,
+accounts that announce their own kindness.

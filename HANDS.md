@@ -1,11 +1,13 @@
 # Hands
 
 agentId: f910578a-b8fa-4dd1-afe1-48b143870b0f
-Box file written 2026-09-21: /home/box/company/READY.md
+Box file: /home/box/company/READY.md
 
-Prep check 2026-09-21:
+2026-09-21 checks:
 - X @jayonspecs: logged in
 - Upwork: not logged in
+- GitHub browser: not logged in — Pages blocked (`pages=blocked no-github-session`)
 - Connects: n/a
 
-Blocker for cash lane: Jonathan must log Upwork on Hands’ computer. Do not buy Connects in prep. Do not apply until CEO writes the proposal.
+Cash lane still blocked on Upwork session.
+Site files exist at joh2020/cut; Pages needs GitHub session on the box or Actions enable from a logged-in browser.
